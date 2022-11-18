@@ -1,0 +1,53 @@
+{
+    "id": "Product Designer",
+    "children": [
+      {
+        "id": "5 Years of Product Design",
+        "children": [
+          {
+            "id": "Data informed design decisions"
+          },
+          {
+            "id": "Understanding of modern interface design"
+          },
+          {
+            "id": "Sets a high bar for quality and craft"
+          },
+          {
+            "id": "Systems thinker and strong information architect"
+          },
+          {
+            "id": "Knowledge of web capabilites"
+          },
+          {
+            "id": "Knows Well:",
+            "children": [
+              { "id": "Figma" },
+              { "id": "Notion" },
+              { "id": "Coda" }
+            ]
+          },
+          {
+            "id": "Nice to Haves:",
+            "children": [
+              { "id": "Prototyping", 
+                              "children": [
+                                  { "id": "Framer" },
+                                  { "id": "Oragami" }
+                ]
+                          },
+              { "id": "Comfort with", 
+                              "children": [
+                                  { "id": "HTML" },
+                                  { "id": "Javascript" },
+                                  { "id": "SQL" },
+                                  { "id": "Python" }
+                ]
+                          }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
